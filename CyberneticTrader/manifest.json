@@ -1,0 +1,8 @@
+{
+    "id": "CyberneticTrader",
+    "title": "Cybernetic Wedge Trader",
+    "description": "Adds a cybernetic implant trader who exchanges implants for credit wedges.",
+    "version": "0.1.0",
+    "author": "Codex",
+    "tags": "Merchant"
+}
